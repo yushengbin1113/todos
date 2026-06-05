@@ -1,3 +1,11 @@
+<!--
+ * @Author: yushengbin yushengbin1113@gmail.com
+ * @Date: 2026-06-05 17:16:07
+ * @LastEditors: yushengbin yushengbin1113@gmail.com
+ * @LastEditTime: 2026-06-05 19:22:26
+ * @FilePath: \todos\README.md
+ * @Description: README.md
+-->
 # Todos
 
 基于 Vue 3 + Vite + JavaScript 的待办事项应用，数据保存在浏览器本地（localStorage），无需后端。
@@ -7,10 +15,9 @@
 部署 GitHub Pages 后访问：
 
 ```
-https://<你的用户名>.github.io/todos/
+https://yushengbin1113.github.io/todos/
 ```
 
-将 `<你的用户名>` 替换为你的 GitHub 用户名。
 
 ## 功能
 
