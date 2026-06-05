@@ -22,12 +22,14 @@ const {
   setFilter,
   setCategoryFilter,
 } = useTodos()
+
+const avatarUrl = `${import.meta.env.BASE_URL}avatar.jpg`
 </script>
 
 <template>
   <div class="app">
     <PersonalBanner
-      image-src="/profile.jpg"
+      :image-src="avatarUrl"
       image-alt="个人头像"
       title="英雄联盟"
       subtitle="6.7-6.10高考加油"
